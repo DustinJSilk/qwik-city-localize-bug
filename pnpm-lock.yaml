@@ -5,7 +5,7 @@ specifiers:
   '@angular/compiler-cli': ^15.2.0
   '@angular/localize': ^15.2.0
   '@builder.io/qwik': 0.20.0
-  '@builder.io/qwik-city': 0.5.0
+  '@builder.io/qwik-city': 0.5.2
   '@types/eslint': 8.21.1
   '@types/node': ^18.14.0
   '@types/node-fetch': latest
@@ -27,7 +27,7 @@ dependencies:
 
 devDependencies:
   '@builder.io/qwik': 0.20.0_undici@5.20.0
-  '@builder.io/qwik-city': 0.5.0_@builder.io+qwik@0.20.0
+  '@builder.io/qwik-city': 0.5.2_@builder.io+qwik@0.20.0
   '@types/eslint': 8.21.1
   '@types/node': 18.14.2
   '@types/node-fetch': 2.6.2
@@ -300,8 +300,8 @@ packages:
       to-fast-properties: 2.0.0
     dev: false
 
-  /@builder.io/qwik-city/0.5.0_@builder.io+qwik@0.20.0:
-    resolution: {integrity: sha512-2/pmuGjdrIzWCFSGwHK3QeOxADalEbGdnpUZZ/Sd2ZjnUrrpMlD5RQlffHhALt3YijnFejZivvkynIkJlMXU6A==}
+  /@builder.io/qwik-city/0.5.2_@builder.io+qwik@0.20.0:
+    resolution: {integrity: sha512-ItpQw+A4nK7Uh+Ypdx+LGqPlOzoIGWg9VgnqWCKpAfJaLnD4ffvSPrgHKQx/DdsDFFl7nBMMq4ddUQSL7xp0Yw==}
     engines: {node: '>=16.8.0 <18.0.0 || >=18.11'}
     peerDependencies:
       '@builder.io/qwik': '>=0.20.0'
